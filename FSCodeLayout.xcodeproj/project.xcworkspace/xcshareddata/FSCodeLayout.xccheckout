@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2BA89A97-EC24-49A5-84CC-C36D3C05DAF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FSCodeLayout</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B687E70BA85E4185F6B71F8E9CE3EFA161E8D96F</key>
+		<string>https://github.com/wangfangshuai/FSCodeLayout.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FSCodeLayout.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B687E70BA85E4185F6B71F8E9CE3EFA161E8D96F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wangfangshuai/FSCodeLayout.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B687E70BA85E4185F6B71F8E9CE3EFA161E8D96F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B687E70BA85E4185F6B71F8E9CE3EFA161E8D96F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FSCodeLayout</string>
+		</dict>
+	</array>
+</dict>
+</plist>
