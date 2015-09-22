@@ -24,7 +24,7 @@ Build the project and run, you will find this is a good code layout.
     [_thisIsEnd setWidthToAutoresizeScreenWidth];   
 
 ## Example
-It is very easy to use FSTabBarController while custom TabBar, you can take a look at the following demo
+It is very easy to use FSCodeLayout while layout, you can take a look at the following demo
 <img src = "http://7x2w39.com1.z0.glb.clouddn.com/FSCodeLayout_example.png" />
 
 ## License
